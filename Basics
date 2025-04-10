@@ -1,0 +1,134 @@
+// Online C compiler to run C program online
+#include <stdio.h>
+
+int main() {
+    // Write C code here
+    /*
+    int my_number=10;
+    printf("%d",my_number);
+    printf("\n");
+    */
+   /*
+    printf("\nTry programiz.pro");
+    printf("Hello10abc20");
+    printf("10 20 30");
+    printf("10");
+    printf("\n20");
+    printf("\n30");*/
+    
+   /*
+    printf("\nAge:");
+    printf("\n");
+    printf("\n*");
+    printf("\n**");
+    printf("\n***");
+    printf("\n****");
+    printf("\n");
+    char my_name[20]="NITIN";
+    printf("\n%s",my_name);
+    printf("\n");
+    printf("\nID Name Score");
+    printf("\n1  Arun  50");*/
+    /*
+    int a=10;
+    int b=20;
+    int c=30;
+    
+    
+    printf("%d\n%d\n%d\n",a,b);
+    //Getting input for char and integer value
+    */
+    /*
+    int b;
+    printf("Ente your Name:");
+    scanf("%c",&b);
+    printf("\n");
+    printf("%c\n",b);
+    */
+    //getting input string value
+    /*
+    char c[15];
+    printf("Enter your Name:");
+    scanf("%s",&c);
+    getchar();
+    
+    int a;
+    printf("Enter your Age:");
+    scanf("%d",&a);
+    getchar();
+    
+    int e;
+    printf("Enter your DOB:");
+    scanf("%d",&e);
+    getchar();
+    
+    int f;
+    printf("Enter your Tamil Mark:");
+    scanf("%d",&f);
+    getchar();
+    
+    int g;
+    printf("Enter your English Mark:");
+    scanf("%d",&g);
+    getchar();
+    
+    int h;
+    printf("Enter your Maths Mark:");
+    scanf("%d",&h);
+    getchar();
+    
+    int i;
+    printf("Enter your Computer Science:");
+    scanf("%d",&i);
+    getchar();
+    
+    int j;
+    printf("Enter your Physics:");
+    scanf("%d",&j);
+    getchar();
+    
+    int k;
+    printf("Enter your Chemistry:");
+    scanf("%d",&k);
+    getchar();
+    printf("\n");
+    
+    printf("Name:%s\n",c);
+    printf("Age:%d\n",a);
+    printf("DOB:%d\n",e);
+    printf("Tamil:%d\n",f);
+    printf("English:%d\n",g);
+    printf("Maths:%d\n",h);
+    printf("CS:%d\n",i);
+    printf("Physics:%d\n",j);
+    printf("Chemistry:%d\n",k);*/
+    
+    
+    
+    
+    
+    
+    
+    return 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
