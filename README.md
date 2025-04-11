@@ -1,11 +1,9 @@
+
 # C programming
 
 # Introduction
 #1) Keywords-32
-
-#2) Operators-45 
-
-   (+,-,*,/,%,<,>,etc..)
+#2) Operators-45 (+,-,*,/,%,<,>,etc..)
 
     1)Arithmetic Operator:
         (+,-,*,/,%,++,--,..)
@@ -55,9 +53,7 @@
 
 
 
-#3) Separators-14 
-
-(;,{},[],#,,,etc..)
+#3) Separators-14 (;,{},[],#,,,etc..)
 
     (,) -separates multiple variable
 
@@ -159,3 +155,52 @@
         
         =
 
+
+#12)Loop:
+
+        1)While
+
+        2)For
+
+        3)Do while
+
+    1)While:
+        syntax:
+            declaration;
+            while (condition) {
+                statement
+                steps    ( -- , ++)
+            }
+
+
+        eg:
+            int a=0;
+            while (a<=5){
+                printf("hello\n");
+                a+=1;
+            }
+
+
+    2)For:
+        syntax:
+                for(declaration;condition;steps) {
+                    statement;
+                }
+        
+        eg:
+                for(int index=0;index<=5;index=++) {
+                    printf("hello\n");
+                }
+
+
+    3)Do while:
+        syntax:
+            do{
+                statement;
+            }while(condition);
+
+
+        eg:
+            do{
+                printf("Hello\n");
+            }while(0);
