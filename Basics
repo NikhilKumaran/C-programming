@@ -103,12 +103,146 @@ int main() {
     printf("Physics:%d\n",j);
     printf("Chemistry:%d\n",k);*/
     
+    /*
+    int a;
+    printf("Enter value of a: ");
+    scanf("%d",&a);
+    
+    int b;
+    printf("Enter value of b: ");
+    scanf("%d",&b);
+    
+    printf("a+b=%d",a+b);
+    printf("\n");
+    printf("a-b=%d",a-b);
+    printf("\n");
+    printf("a*b=%d",a*b);
+    printf("\n");
+    printf("a/b=%d",a/b);
+    printf("\n");
+    printf("a modulus b=%d",a%b);
+    */
+    
+    /*
+    float side;
+    printf("Enter length of side: ");
+    scanf("%f",&side);
+    
+    printf("\n");
+    
+    printf("Area of square is:%f",side*side);
+    
+    printf("\n");
+     
+    float length;
+    printf("\nEnter value of length: ");
+    scanf("%f",&length);
+    
+    printf("\n");
+    
+    float breadth;
+    printf("Enter value of breadth: ");
+    scanf("%f",&breadth);
+    
+    printf("\n");
+    
+    printf("Area of rectangle is:%f",length*breadth);
+    
+    printf("\n");
+    */
+    
+    /*
+    float height;
+    printf("\nEnter value of height: ");
+    scanf("%f",&height);
+    
+    printf("\n");
+    
+    float base;
+    printf("Enter value of base: ");
+    scanf("%f",&base);
+    
+    printf("\n");
+    
+    printf("Area of triangle is:%f",0.5*(base*height));
+    */
+    
+    /*
+    float radius;
+    printf("Enter value of radius: ");
+    scanf("%f",&radius);
+    
+    printf("\n");
+    
+    printf("Area of circle is:%f",3.14*(radius*radius));
+    */
+    
+    /*  
+    int a;
+    printf("Enter the number: ");
+    scanf("%d",&a);
+    
+    printf("Last digit is: %d",a%10);
+    
+    */
+    /*
+    int a ;
+    printf("Enter digit of a?");
+    scanf("%d",&a);
+    
+    int b;
+    printf("Enter digit of b?");
+    scanf("%d",&b);
+
+    int c=b;
+    
+    b=a;
+    
+    a =c;
+    
+    printf("A:%d",a);
+    printf("\n");
+    printf("B:%d",b);
+    
+    */
+    
+    /*
+    if (3>5) {
+        printf("3 is greater than 5");
+    }
+    
+    else {
+        printf("5 is greater than 3");
+    }
+     */
+     
+    /*
+    int a,b,max;
+    printf("Enter number A: ");
+    scanf("%d",&a);
+    
+    printf("Enter number B: ");
+    scanf("%d",&b);
+    
+    if (a>b) {
+        max=a;
+        printf("The maximum value is:%d",max);
+    }
+    
+     else {
+        max=b;
+        printf("The maximum value is:%d",max);
+    }
     
     
+    max=a;
+    if(max<b)
+        max=b;
     
+    printf("The maximum number is: %d",max);
     
-    
-    
+     */
+
     return 0;
 }
 
